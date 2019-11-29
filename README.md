@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Homework assignment for applying to Spectrum
+
+Standard React scripts descriptions follow:
 
 ## Available Scripts
 
